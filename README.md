@@ -64,8 +64,8 @@ MongoDB | SQLite | AWS
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/balaji2611/
+- Email: balajibalakrishnan335@gmail.com
 
 ---
 
